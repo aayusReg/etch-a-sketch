@@ -10,14 +10,18 @@
   display: flex;
   flex-wrap: wrap;
   margin: 0 auto;
-  width: 500px;
+  width: 490px;
   height: 500px;
+  padding: 5px;
   
 }
 
 .div {
-  border: 10px double white;
+  border: 10px solid white;
   margin: 5px;
-  flex: 1;
+
   
+}
+.hover{
+    border:10px solid blue;
 }
